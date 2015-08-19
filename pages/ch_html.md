@@ -4,7 +4,7 @@ title: C++ Toolkit test
 nav: pages/ch_html
 ---
 
-12. HTML
+Chapter 12. HTML
 ========
 
 Last Update: November 15, 2013.
